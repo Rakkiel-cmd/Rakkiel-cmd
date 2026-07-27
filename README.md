@@ -35,12 +35,11 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![StarUML](https://img.shields.io/badge/StarUML-FF9B00.svg?style=flat)
 
+### 🤖 AI / Tecnología Moderna
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6236FF?style=flat)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white)
 
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-
-
-------
-
-Last Edited on: 27/07/2023
